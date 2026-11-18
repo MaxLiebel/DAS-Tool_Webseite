@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DAS-Tool Webseite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Über das Projekt"
+        menu:
+          - partners.qmd
+
+html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
