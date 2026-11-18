@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site. It is nice
+About this site. It is nice. It is very nice.

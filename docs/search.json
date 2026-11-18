@@ -18,6 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site. It is nice. It is very nice."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DAS-Tool_Webseite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
