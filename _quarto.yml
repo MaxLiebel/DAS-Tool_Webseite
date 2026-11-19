@@ -13,11 +13,8 @@ website:
           - partners.qmd
     tools:
         - icon: mastodon
-          href: 
         - icon: envelope
-          href: 
         - icon: github
-          href: 
 
 format:
   html:
