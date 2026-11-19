@@ -12,9 +12,9 @@ website:
         menu:
           - partners.qmd
     tools:
-        - icon: mastodon
-        - icon: envelope
-        - icon: github
+      - icon: mastodon
+      - icon: envelope
+      - icon: github
 
 format:
   html:
