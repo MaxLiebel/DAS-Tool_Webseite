@@ -16,10 +16,18 @@ website:
   navbar:
     logo: /images/logo-dark.png
     left:
-      - href: index.qmd
       - text: "Über das Projekt"
         menu:
           - partners.qmd
+          - arbeitspakete.qmd
+      - href: publications.qmd
+        text: "Publikationen"
+      - text: "Veranstaltungen"
+        menu:
+          - events.qmd
+          - archive.qmd
+      - href: ressourcen.qmd
+        text: "Ressourcen"
     tools:
       - icon: mastodon
       - icon: envelope

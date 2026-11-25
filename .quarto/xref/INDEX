@@ -19,5 +19,20 @@
   },
   "datenschutz.qmd": {
     "datenschutz.html": "1190c8af"
+  },
+  "arbeitspakete.qmd": {
+    "arbeitspakete.html": "af77b144"
+  },
+  "archive.qmd": {
+    "archive.html": "881f104b"
+  },
+  "events.qmd": {
+    "events.html": "6412df2f"
+  },
+  "publications.qmd": {
+    "publications.html": "69db55fb"
+  },
+  "ressourcen.qmd": {
+    "ressourcen.html": "35e8fc43"
   }
 }

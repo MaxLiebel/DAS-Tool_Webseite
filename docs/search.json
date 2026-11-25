@@ -2,29 +2,85 @@
   {
     "objectID": "partners.html",
     "href": "partners.html",
-    "title": "DAS-Tool Webseite",
+    "title": "DAS-Tool",
     "section": "",
     "text": "Der Lehrstuhl Information Management am Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin untersucht die Rolle digitaler Forschungs- und Informationsinfrastrukturen in der Wissenschaft im Rahmen der digitalen Transformation. Ein Schwerpunkt der Forschung liegt auf den Themen FDM und Veröffentlichungspraktiken für Forschungsdaten. Der Lehrstuhl ist in den Betrieb von re3data, dem globalen Verzeichnis von Forschungsdaten-Repositorien, involviert und analysiert auf Basis der re3data Daten die internationale Landschaft von Forschungsdaten-Infrastrukturen.\n\n\nProf. Dr. Heinz Pampel https://orcid.org/0000-0003-3334-2771\nDr. Laura Rothfritz https://orcid.org/0000-0001-7525-0635\n\n\n\n\nDie Fachhochschule Potsdam forscht und lehrt bereits seit Jahren im Themenfeld FDM. So hat sie im Februar 2024 eine aktualisierte Fassung der Forschungsdaten-Leitlinie der Fachhochschule Potsdam verabschiedet, bietet ihren Forschenden und forschungsstarken Studierenden einen FDM-Kontaktpunkt an, berät sie bei der Erstellung von Forschungsdatenmanagementplänen und führt seit Jahren Schulungen durch.\n\n\nProf. Dr. Heike Neuroth https://orcid.org/0000-0002-3637-3154"
   },
   {
     "objectID": "partners.html#projektpartner",
     "href": "partners.html#projektpartner",
-    "title": "DAS-Tool Webseite",
+    "title": "DAS-Tool",
     "section": "",
     "text": "Der Lehrstuhl Information Management am Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin untersucht die Rolle digitaler Forschungs- und Informationsinfrastrukturen in der Wissenschaft im Rahmen der digitalen Transformation. Ein Schwerpunkt der Forschung liegt auf den Themen FDM und Veröffentlichungspraktiken für Forschungsdaten. Der Lehrstuhl ist in den Betrieb von re3data, dem globalen Verzeichnis von Forschungsdaten-Repositorien, involviert und analysiert auf Basis der re3data Daten die internationale Landschaft von Forschungsdaten-Infrastrukturen.\n\n\nProf. Dr. Heinz Pampel https://orcid.org/0000-0003-3334-2771\nDr. Laura Rothfritz https://orcid.org/0000-0001-7525-0635\n\n\n\n\nDie Fachhochschule Potsdam forscht und lehrt bereits seit Jahren im Themenfeld FDM. So hat sie im Februar 2024 eine aktualisierte Fassung der Forschungsdaten-Leitlinie der Fachhochschule Potsdam verabschiedet, bietet ihren Forschenden und forschungsstarken Studierenden einen FDM-Kontaktpunkt an, berät sie bei der Erstellung von Forschungsdatenmanagementplänen und führt seit Jahren Schulungen durch.\n\n\nProf. Dr. Heike Neuroth https://orcid.org/0000-0002-3637-3154"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "DAS-Tool",
     "section": "",
-    "text": "About this site."
+    "text": "DAS-Tool erleichtert die Erstellung von standardisierten Data Availability Statements im Bereich elektronischer Zeitschriften, basierend auf den DAS-Vorgaben innerhalb der unterschiedlichen Publikationskulturen und ihren Publikationsorganen. \nIm Projekt wird das DAS-Tool auf Basis von Arbeiten rund um Tools für die Erstellung von Datenmanagementplänen aufsetzen. Es wird Informationen zum Umgang mit Forschungsdaten an einer wissenschaftlichen Einrichtung und Informationen zu Forschungsdaten-Repositorien durch automatische Datenflüsse nutzen."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DAS-Tool_Webseite",
+    "title": "DAS-Tool",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "DAS-Tool erleichtert die Erstellung von standardisierten Data Availability Statements im Bereich elektronischer Zeitschriften, basierend auf den DAS-Vorgaben innerhalb der unterschiedlichen Publikationskulturen und ihren Publikationsorganen. \nIm Projekt wird das DAS-Tool auf Basis von Arbeiten rund um Tools für die Erstellung von Datenmanagementplänen aufsetzen. Es wird Informationen zum Umgang mit Forschungsdaten an einer wissenschaftlichen Einrichtung und Informationen zu Forschungsdaten-Repositorien durch automatische Datenflüsse nutzen.\n\n\nIn Bezug auf die Datenpublikationslandschaft verfolgt das Projekt folgende Ziele:\n\nUnterstützung bei der Formulierung von strukturierten, maschienenlesbaren DAS\nvermehrte Verknüpfung von DAS und DMPs \nZusammenspiel mit Forschungsdaten-Repositorien stärken\nÜbersicht von Journal Policies in Bezug auf DAS \nSteigerung von Akzeptanz und Implementierung von DAS bei Publikationsorganen \nFörderung der digitalen Souveränität\n\nDie exemplarische Verbindung von DAS und DMPs wird durch die Integration von RDMO und DAS-Tool realisiert.\n\n\n\nEine gekürzte Fassung des Projektantrags ist hier veröffentlicht:\nPampel. H., Neuroth, H. & Rothfritz, L. (2026). DAS-Tool – Data Availability Statements im Zusammenspiel mit Forschungsdaten-Repositorien und Forschungsinformation. Zenodo. https://doi.org/10.5281/zenodo.23313849\n\n\n\nDas Projekt DAS-Tool ist unter der Projektnummer 578368944 durch die Deutsche Forschungsgemeinschaft gefördert."
+  },
+  {
+    "objectID": "about.html#projektbeschreibung",
+    "href": "about.html#projektbeschreibung",
+    "title": "DAS-Tool",
+    "section": "",
+    "text": "DAS-Tool erleichtert die Erstellung von standardisierten Data Availability Statements im Bereich elektronischer Zeitschriften, basierend auf den DAS-Vorgaben innerhalb der unterschiedlichen Publikationskulturen und ihren Publikationsorganen. \nIm Projekt wird das DAS-Tool auf Basis von Arbeiten rund um Tools für die Erstellung von Datenmanagementplänen aufsetzen. Es wird Informationen zum Umgang mit Forschungsdaten an einer wissenschaftlichen Einrichtung und Informationen zu Forschungsdaten-Repositorien durch automatische Datenflüsse nutzen."
+  },
+  {
+    "objectID": "about.html#projektziele",
+    "href": "about.html#projektziele",
+    "title": "DAS-Tool",
+    "section": "Projektziele",
+    "text": "Projektziele\nIn Bezug auf die Datenpublikationslandschaft verfolgt das Projekt folgende Ziele:\n\nUnterstützung bei der Formulierung von strukturierten, maschienenlesbaren DAS\nvermehrte Verknüpfung von DAS und DMPs \nZusammenspiel mit Forschungsdaten-Repositorien stärken\nÜbersicht von Journal Policies in Bezug auf DAS \nSteigerung von Akzeptanz und Implementierung von DAS bei Publikationsorganen \nFörderung der digitalen Souveränität\n\nDie exemplarische Verbindung von DAS und DMPs wird durch die Integration von RDMO und DAS-Tool realisiert."
+  },
+  {
+    "objectID": "about.html#projektantrag",
+    "href": "about.html#projektantrag",
+    "title": "DAS-Tool",
+    "section": "Projektantrag",
+    "text": "Projektantrag\nEine gekürzte Fassung des Projektantrags ist hier veröffentlicht:\nPampel. H., Neuroth, H. & Rothfritz, L. (2026). DAS-Tool – Data Availability Statements im Zusammenspiel mit Forschungsdaten-Repositorien und Forschungsinformation. Zenodo. https://doi.org/10.5281/zenodo.23313849"
+  },
+  {
+    "objectID": "about.html#projektförderung",
+    "href": "about.html#projektförderung",
+    "title": "DAS-Tool",
+    "section": "Projektförderung",
+    "text": "Projektförderung\nDas Projekt DAS-Tool ist unter der Projektnummer 578368944 durch die Deutsche Forschungsgemeinschaft gefördert."
+  },
+  {
+    "objectID": "index.html#projektbeschreibung",
+    "href": "index.html#projektbeschreibung",
+    "title": "DAS-Tool",
+    "section": "",
+    "text": "DAS-Tool erleichtert die Erstellung von standardisierten Data Availability Statements im Bereich elektronischer Zeitschriften, basierend auf den DAS-Vorgaben innerhalb der unterschiedlichen Publikationskulturen und ihren Publikationsorganen. \nIm Projekt wird das DAS-Tool auf Basis von Arbeiten rund um Tools für die Erstellung von Datenmanagementplänen aufsetzen. Es wird Informationen zum Umgang mit Forschungsdaten an einer wissenschaftlichen Einrichtung und Informationen zu Forschungsdaten-Repositorien durch automatische Datenflüsse nutzen.\n\n\nIn Bezug auf die Datenpublikationslandschaft verfolgt das Projekt folgende Ziele:\n\nUnterstützung bei der Formulierung von strukturierten, maschienenlesbaren DAS\nvermehrte Verknüpfung von DAS und DMPs \nZusammenspiel mit Forschungsdaten-Repositorien stärken\nÜbersicht von Journal Policies in Bezug auf DAS \nSteigerung von Akzeptanz und Implementierung von DAS bei Publikationsorganen \nFörderung der digitalen Souveränität\n\nDie exemplarische Verbindung von DAS und DMPs wird durch die Integration von RDMO und DAS-Tool realisiert.\n\n\n\nEine gekürzte Fassung des Projektantrags ist hier veröffentlicht:\nPampel. H., Neuroth, H. & Rothfritz, L. (2026). DAS-Tool – Data Availability Statements im Zusammenspiel mit Forschungsdaten-Repositorien und Forschungsinformation. Zenodo. https://doi.org/10.5281/zenodo.23313849\n\n\n\nDas Projekt DAS-Tool ist unter der Projektnummer 578368944 durch die Deutsche Forschungsgemeinschaft gefördert."
+  },
+  {
+    "objectID": "index.html#projektziele",
+    "href": "index.html#projektziele",
+    "title": "DAS-Tool",
+    "section": "Projektziele",
+    "text": "Projektziele\nIn Bezug auf die Datenpublikationslandschaft verfolgt das Projekt folgende Ziele:\n\nUnterstützung bei der Formulierung von strukturierten, maschienenlesbaren DAS\nvermehrte Verknüpfung von DAS und DMPs \nZusammenspiel mit Forschungsdaten-Repositorien stärken\nÜbersicht von Journal Policies in Bezug auf DAS \nSteigerung von Akzeptanz und Implementierung von DAS bei Publikationsorganen \nFörderung der digitalen Souveränität\n\nDie exemplarische Verbindung von DAS und DMPs wird durch die Integration von RDMO und DAS-Tool realisiert."
+  },
+  {
+    "objectID": "index.html#projektantrag",
+    "href": "index.html#projektantrag",
+    "title": "DAS-Tool",
+    "section": "Projektantrag",
+    "text": "Projektantrag\nEine gekürzte Fassung des Projektantrags ist hier veröffentlicht:\nPampel. H., Neuroth, H. & Rothfritz, L. (2026). DAS-Tool – Data Availability Statements im Zusammenspiel mit Forschungsdaten-Repositorien und Forschungsinformation. Zenodo. https://doi.org/10.5281/zenodo.23313849"
+  },
+  {
+    "objectID": "index.html#projektförderung",
+    "href": "index.html#projektförderung",
+    "title": "DAS-Tool",
+    "section": "Projektförderung",
+    "text": "Projektförderung\nDas Projekt DAS-Tool ist unter der Projektnummer 578368944 durch die Deutsche Forschungsgemeinschaft gefördert."
   }
 ]
