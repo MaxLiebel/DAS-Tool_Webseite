@@ -7,5 +7,14 @@
   },
   "partners.qmd": {
     "partners.html": "405f14d7"
+  },
+  "impressum.qmd": {
+    "impressum.html": "b24de1c7"
+  },
+  "Datenschutz.qmd": {
+    "Datenschutz.html": "19ef464a"
+  },
+  "docs/datenschutz.qmd": {
+    "datenschutz.html": "a7cef8d2"
   }
 }
