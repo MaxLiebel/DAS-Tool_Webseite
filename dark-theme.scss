@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$body-bg: #1F1B24;        // Tinte
+$body-color: #FAF8FC;     // Papier
+$primary: #8E6CC4;        // Violett 400 (Sekundär)
+$secondary: #5E5866;      // Grau
+$link-color: #E0A526;     // Ocker 500 (Akzent)
+$border-color: #5E5866;   // Grau
+
+// Navbar & subtle surfaces
+$navbar-bg: #261440;      // Violett 900
+$navbar-fg: #FAF8FC;      // Papier
+$dark: #261440;
+
+/*-- scss:rules --*/
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #E0A526; // Ocker 500 (Akzent)
+  border-color: #E0A526;
+  color: #1F1B24;            // Tinte
+}
+
+a:hover {
+  color: #B7A0DC;            // Violett 300
+}

@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$body-bg: #FAF8FC;        // Papier
+$body-color: #1F1B24;     // Tinte
+$primary: #4B2A7B;        // Violett 700 (Primär)
+$secondary: #8E6CC4;      // Violett 400 (Sekundär)
+$link-color: #4B2A7B;     // Violett 700 (or #8F6212 Ocker 800)
+$border-color: #CFCAD6;   // Linie
+
+// Navbar & subtle surfaces
+$navbar-bg: #4B2A7B;
+$navbar-fg: #FFFFFF;
+$light: #EDE7F6;          // Violett 100 (Fläche)
+
+/*-- scss:rules --*/
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #E0A526; // Ocker 500 (Akzent)
+  border-color: #E0A526;
+  color: #1F1B24;            // Tinte (7.7:1 AAA)
+}
+
+a:hover {
+  color: #5A3591;            // Violett 600 (Hover)
+}
