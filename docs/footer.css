@@ -1,0 +1,21 @@
+.nav-footer-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  text-align: center;
+}
+
+/* Keep the two Creative Commons icons side by side */
+.nav-footer-center .faux-icon-link,
+.nav-footer-center a[href*="creativecommons.org"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Keep the license paragraph from breaking into narrow columns */
+.nav-footer-center > p,
+.nav-footer-center .nav-footer-item:last-child {
+  max-width: 36rem;
+}

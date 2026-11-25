@@ -4,13 +4,15 @@ project:
 
 website:
   title: "DAS-Tool Webseite"
-  page-footer: 
+  page-footer:
     center:
       - href: impressum.qmd
+        text: "Impressum"
       - href: datenschutz.qmd
+        text: "Datenschutz"
       - text: "{{< iconify bxl:creative-commons size=xl >}} {{< iconify humbleicons:creative-commons-by size=xl >}}"
         href: "https://creativecommons.org/licenses/by/4.0/deed.en"
-      - text: "Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license."
+      - text: "Sofern nicht anders angegeben, ist der Inhalt dieser Website unter einer Creative Commons Namensnennung 4.0 International Lizenz lizenziert."
   navbar:
     left:
       - href: index.qmd
@@ -28,6 +30,8 @@ format:
     theme:
       light: flatly
       dark: darkly
-
-
-
+    css: styles.css
+    grid:
+      sidebar-width: 50px
+      body-width: 850px
+      margin-width: 150px
