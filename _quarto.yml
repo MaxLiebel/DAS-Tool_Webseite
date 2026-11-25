@@ -14,10 +14,9 @@ website:
         href: "https://creativecommons.org/licenses/by/4.0/deed.en"
       - text: "Sofern nicht anders angegeben, ist der Inhalt dieser Website unter einer Creative Commons Namensnennung 4.0 International Lizenz lizenziert."
   navbar:
-    logo: /images/logo-light.png
+    logo: /images/logo-dark.png
     left:
       - href: index.qmd
-        text: Home
       - text: "Über das Projekt"
         menu:
           - partners.qmd
